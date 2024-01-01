@@ -1,6 +1,5 @@
 import sounddevice as sd
 import wave
-import numpy as np
 
 def record_audio(duration, filename, samplerate=44100):
     # Record audio for the given duration
@@ -19,3 +18,4 @@ def record_audio(duration, filename, samplerate=44100):
 
 # Example usage
 record_audio(duration=5, filename='test.wav')  # Records for 5 seconds and saves to test.wav
+
