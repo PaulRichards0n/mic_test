@@ -1,6 +1,6 @@
-db    db d8888b. db             .d8888. db   db  .d88b.  d8888b. d888888b d88888b d8888b.
-88    88 88  `8D 88             88'  YP 88   88 .8P  Y8. 88  `8D `~~88~~' 88'     88  `8D
-88    88 88oobY' 88             `8bo.   88ooo88 88    88 88oobY'    88    88ooooo 88oobY'
-88    88 88`8b   88      C8888D   `Y8b. 88~~~88 88    88 88`8b      88    88~~~~~ 88`8b  
-88b  d88 88 `88. 88booo.        db   8D 88   88 `8b  d8' 88 `88.    88    88.     88 `88.
-~Y8888P' 88   YD Y88888P        `8888Y' YP   YP  `Y88P'  88   YD    YP    Y88888P 88   YD
+
+M   M  IIIII  CCCCC     TTTTTTT EEEEEEE  SSSSS  TTTTTTT
+MM MM    I   C             T    E        S         T
+M M M    I   C             T    EEE       SSS      T
+M   M    I   C             T    E            S     T
+M   M  IIIII  CCCCC        T    EEEEEEE  SSSS      T
