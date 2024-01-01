@@ -16,3 +16,18 @@ bash
 ```pip install sounddevice```
 
 This script will record 5 seconds of audio and save it as 'test.wav'. You can change the duration and filename as needed.
+
+
+Contributing
+
+Contributions are always welcome!
+
+See contributing.md for ways to get started.
+License
+
+MIT
+Contact
+
+Your Name – paulrich@gmail.com
+
+Project Link: https://github.com/PaulRichards0n/mic_test/tree/main
