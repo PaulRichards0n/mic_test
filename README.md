@@ -13,6 +13,6 @@ To use this code, make sure you have the sounddevice module installed. If not, y
 
 bash
 
-pip install sounddevice
+```pip install sounddevice```
 
 This script will record 5 seconds of audio and save it as 'test.wav'. You can change the duration and filename as needed.
