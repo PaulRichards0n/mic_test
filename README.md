@@ -21,8 +21,7 @@ Contributing
 
 Contributions are always welcome!
 
-See contributing.md for ways to get started.
-License
+
 
 
 <p align="left">
