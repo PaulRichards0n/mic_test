@@ -25,7 +25,9 @@ See contributing.md for ways to get started.
 License
 
 
-Contact
+<p align="center">
+  <img src="https://github.com/PaulRichards0n/mic_test/blob/main/xpressi.png" width="250" title="hover text">
+</p>
 
 Your Name – paulrich@gmail.com
 
