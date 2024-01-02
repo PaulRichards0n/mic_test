@@ -25,7 +25,7 @@ See contributing.md for ways to get started.
 License
 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/PaulRichards0n/mic_test/blob/main/xpressi.png" width="250" title="hover text">
 </p>
 
@@ -33,6 +33,3 @@ Your Name – paulrich@gmail.com
 
 Project Link:  https://github.com/PaulRichards0n/mic_test/tree/main
 
-<p align="center">
-  <img src="https://github.com/PaulRichards0n/mic_test/blob/main/xpressi.png" width="250" title="hover text">
-</p>
