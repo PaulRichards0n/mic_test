@@ -24,7 +24,7 @@ Contributions are always welcome!
 See contributing.md for ways to get started.
 License
 
-MIT
+
 Contact
 
 Your Name – paulrich@gmail.com
