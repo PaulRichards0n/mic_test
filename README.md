@@ -32,5 +32,5 @@ Your Name – paulrich@gmail.com
 Project Link:  https://github.com/PaulRichards0n/mic_test/tree/main
 
 <p align="center">
-  <img src="https://github.com/PaulRichards0n/mic_test/blob/main/xpressi.png" width="350" title="hover text">
+  <img src="https://github.com/PaulRichards0n/mic_test/blob/main/xpressi.png" width="150" title="hover text">
 </p>
