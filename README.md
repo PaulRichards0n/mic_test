@@ -11,7 +11,7 @@ Here's the complete code for recording audio using the sounddevice and wave modu
 This script will record 5 seconds of audio and save it as 'test.wav'. You can change the duration and filename as needed.
 
 To use this code, make sure you have the sounddevice module installed. If not, you can install it using pip:
-
+<p style="color:blue;">This script will record 5 seconds of audio and save it as 'test.wav'. You can change the duration and filename as needed.</p>
 ```pip install sounddevice```
 
 
