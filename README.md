@@ -17,7 +17,7 @@ To use this code, make sure you have the sounddevice module installed. If not, y
 
 
 
-Contributing
+
 
 Contributions are always welcome!
 
